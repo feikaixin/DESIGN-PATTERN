@@ -1,0 +1,19 @@
+{
+  "name": "desigh-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feikaixin/DESIGN-PATTERN.git"
+  },
+  "author": "feikaixin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feikaixin/DESIGN-PATTERN/issues"
+  },
+  "homepage": "https://github.com/feikaixin/DESIGN-PATTERN#readme"
+}
